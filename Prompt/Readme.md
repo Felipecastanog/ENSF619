@@ -4,7 +4,7 @@ This folder contains the finalized and structured **prompt** used to evaluate an
 
 ## 📄 Contents
 
-- `final_structured_prompt.txt`:  
+- `prompt.md`:  
   The complete, step-by-step prompt designed to generate Python code that applies the Laplace mechanism to count records by birth decade in a synthetic dataset.
 
 ## 🧩 Purpose
