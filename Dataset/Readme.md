@@ -19,7 +19,7 @@ This dataset is specifically crafted to mirror the format and complexity of real
 
 ## 📌 Usage Notes
 
-- This dataset is used in conjunction with scripts located in the [`codes`](../codes) folder.
+- This dataset is used in conjunction with scripts located in the [`codes`](../Codes) folder.
 - It should be loaded using `pandas`, cleaned, and filtered before applying DP mechanisms.
 - The main DP task in this project is to **count individuals per birth decade** and apply noise to protect privacy.
 
