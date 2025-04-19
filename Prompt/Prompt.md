@@ -21,4 +21,4 @@ Please include:
   -`max(0, ...)` to prevent negative counts 
   -Output printed as a clean comparison table using `to_string(index=False)` 
   
-Do not use placeholders. Use the exact path and column names I provided
+Do not use placeholders. Use the exact path and column names I provided.
