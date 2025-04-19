@@ -5,7 +5,7 @@ This folder contains the **synthetic dataset** used throughout the project title
 
 ## 📄 Contents
 
-- `ChfSynthData-13_09_2024.csv`:  
+- `Original_Dataset.csv`:  
   A synthetic dataset simulating real-world records from the Calgary Drop-In Centre. It includes **15,991 records** and **28 columns**, representing structured information such as names and dates of birth. The dataset is anonymized and suitable for testing privacy-preserving techniques without compromising individual privacy.
 
 ## 🧩 Purpose
