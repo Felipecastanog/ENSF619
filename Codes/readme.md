@@ -18,7 +18,7 @@ The folder includes the following files:
 
 ## 🧩 Purpose
 
-This directory demonstrates how LLMs can autonomously generate reproducible and privacy-compliant code for sensitive datasets using Differential Privacy. Each script corresponds to a specific output from the evaluated LLMs and is meant to be tested with a synthetic dataset resembling real-world shelter records. The scripts reflect different coding styles, robustness, and reproducibility standards—central to the comparative study outlined in the project report.
+This directory demonstrates how LLMs can autonomously generate reproducible and privacy-compliant code for sensitive datasets using Differential Privacy. Each script corresponds to a specific output from the evaluated LLMs and is meant to be tested with a synthetic dataset resembling real-world shelter records. The scripts reflect different coding styles, robustness, and reproducibility standards central to the comparative study outlined in the project report.
 
 ## 📁 How to Use
 
